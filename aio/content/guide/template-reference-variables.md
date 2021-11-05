@@ -4,9 +4,7 @@ Una **variable de referencia** a menudo es una referencia a un elemento del DOM 
 También se puede referir a una directiva (que contiene un componente), un elemento [TemplateRef](api/core/TemplateRef), o a un <a href="https://developer.mozilla.org/en-US/docs/Web/Web_Components" title="MDN: Web Components">web component</a>.
 
 <div class="alert is-helpful">
-
 Visita el <live-example></live-example> para ver un ejemplo práctico con los fragmentos de código que se presentan en esta guía.
-
 </div>
 
 Usa el símbolo (#) para declarar una variable de referencia.
